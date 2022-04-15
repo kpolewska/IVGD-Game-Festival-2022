@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: bfe676ae003825d4c9a97a088846ccda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2416074209638574423
+    second: Heart_Misc_1
+  - first:
+      213: 2482757046691923460
+    second: Heart_Neutral
+  - first:
+      213: -2382949493566183590
+    second: Heart_Thinking
+  - first:
+      213: 8442582232628235008
+    second: Heart_Surprised
+  - first:
+      213: -8129089863025863205
+    second: Heart_Sad
+  - first:
+      213: -8015771375182530035
+    second: Heart_Misc_1
+  - first:
+      213: 2918517185911560933
+    second: Heart_Neutral
+  - first:
+      213: -4971340254483149097
+    second: Heart_Thinking
+  - first:
+      213: 239641338497705661
+    second: Heart_Surprised
+  - first:
+      213: -4906737855541935397
+    second: Heart_Sad
+  - first:
+      213: -8015771375182530035
+    second: Heart_Misc_1
+  - first:
+      213: 2918517185911560933
+    second: Heart_GlassesPeer
+  - first:
+      213: -8015771375182530035
+    second: Heart_Neutral
+  - first:
+      213: 2482757046691923460
+    second: Heart_GlassesPeer
+  - first:
+      213: -4971340254483149097
+    second: Heart_Thinking
+  - first:
+      213: 239641338497705661
+    second: Heart_Surprised
+  - first:
+      213: -4906737855541935397
+    second: Heart_Sad
+  - first:
+      213: 520497850941697035
+    second: Heart_Misc_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heart_Neutral
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 27
+        width: 422
+        height: 1106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a3085576242c090800000000000000
+      internalID: -8015771375182530035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart_Thinking
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 21
+        width: 372
+        height: 1048
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8ee9b060420bb0800000000000000
+      internalID: -4971340254483149097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart_Surprised
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 29
+        width: 437
+        height: 1104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a7a61780635300800000000000000
+      internalID: 239641338497705661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart_Sad
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 27
+        width: 388
+        height: 1076
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2067adae3c7ebb0800000000000000
+      internalID: -4906737855541935397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart_GlassesPeer
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 27
+        width: 422
+        height: 1094
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068ba73166847220800000000000000
+      internalID: 2482757046691923460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart_Misc_1
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 27
+        width: 758
+        height: 1152
+      alignment: 9
+      pivot: {x: 0.6373236, y: 0.015059322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cebb7a90e293700800000000000000
+      internalID: 520497850941697035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 974e281b3d0389642b10eafeed54281a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
