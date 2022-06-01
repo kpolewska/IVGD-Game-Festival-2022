@@ -1,0 +1,1750 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &115343817141701022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2298903086398604374}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:Eyes_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2298903086398604374
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115343817141701022}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.4090109, y: 0, z: -1.0232622e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3537481950708987735}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328273759083650116
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6043968330394048304}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0401_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6043968330394048304
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328273759083650116}
+  m_LocalRotation: {x: 0.8945218, y: 0.40903482, z: -0.16400367, w: -0.07499405}
+  m_LocalPosition: {x: 0.8901276, y: -0.15946826, z: -1.472263}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 978554910692809707}
+  m_Father: {fileID: 5150037180508740495}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: -0.036514938, y: -159.2211, z: 130.76251}
+--- !u!1 &394720020401842267
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7523405404884304867}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0101_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7523405404884304867
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 394720020401842267}
+  m_LocalRotation: {x: 0.14234611, y: -0.31258607, z: -0.38922307, w: 0.8547122}
+  m_LocalPosition: {x: -0.8968002, y: 0.6658979, z: 0.53396744}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 9047745729284948506}
+  m_Father: {fileID: 5150037180508740495}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.12904787, y: -40.239227, z: -49.158993}
+--- !u!1 &1296944525786934616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7533407347788453345}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Mandible_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7533407347788453345
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1296944525786934616}
+  m_LocalRotation: {x: 0.02895021, y: 0.17155792, z: 0.9039981, w: -0.39053467}
+  m_LocalPosition: {x: 1.1950964, y: 0.0000006273086, z: -0.0000005688561}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3261277333926450245}
+  m_Father: {fileID: 6108929338235326177}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -19.438091, y: -4.9675975, z: -132.41916}
+--- !u!1 &1391268277792348141
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 181155079025639670}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0103_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &181155079025639670
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1391268277792348141}
+  m_LocalRotation: {x: 0.9436701, y: 0.31173998, z: -0.010993259, w: -0.11038172}
+  m_LocalPosition: {x: 2.2740984, y: 0.00000020214662, z: -0.0000034080751}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2676397285321059423}
+  m_Father: {fileID: 6048611175020566077}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -11.645434, y: -174.70297, z: 142.77162}
+--- !u!1 &1470196873275135643
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8417559651346046288}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_DigitEnd_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8417559651346046288
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1470196873275135643}
+  m_LocalRotation: {x: 0.79673505, y: -0.38445053, z: -0.22953118, w: -0.40586513}
+  m_LocalPosition: {x: -1.768302, y: 1.1368684e-15, z: -1.4210854e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 994920319262784743}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1530476858020205348
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6233296847687381831}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_DigitEnd_JNT 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6233296847687381831
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530476858020205348}
+  m_LocalRotation: {x: -0.30630857, y: -0.5567532, z: 0.65395707, w: -0.4105376}
+  m_LocalPosition: {x: -1.7720097, y: 0, z: 4.2632563e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2699804964857748257}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1548281165476571644
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5776734780857192340}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Digit02_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5776734780857192340
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1548281165476571644}
+  m_LocalRotation: {x: 0.6390616, y: 0.71495175, z: 0.23399308, w: 0.16028549}
+  m_LocalPosition: {x: -3.503486, y: 1.7485148, z: -0.5513}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4328361478034579090}
+  m_Father: {fileID: 3690876799690631535}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -7.453582, y: 147.80743, z: 85.73767}
+--- !u!1 &1917332185468699204
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 410936390660504537}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_DigitEnd_JNT 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &410936390660504537
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1917332185468699204}
+  m_LocalRotation: {x: 0.37978724, y: 0.74215746, z: -0.4569775, w: 0.31005734}
+  m_LocalPosition: {x: -1.6596236, y: 1.1368684e-15, z: 1.1368684e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1760882451553796713}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1927502166534486213
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2536071370898601493}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0101_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2536071370898601493
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1927502166534486213}
+  m_LocalRotation: {x: 0.85471237, y: 0.3892235, z: -0.31258476, w: -0.14234683}
+  m_LocalPosition: {x: 0.8968006, y: 0.6659017, z: 0.533965}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6048611175020566077}
+  m_Father: {fileID: 5150037180508740495}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0.14220262, y: -139.74841, z: 130.84991}
+--- !u!1 &1979529852903040974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 838154152568619505}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0201_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &838154152568619505
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979529852903040974}
+  m_LocalRotation: {x: 0.08514436, y: -0.1750561, z: -0.42902339, w: 0.88206846}
+  m_LocalPosition: {x: -1.0479779, y: -0.0029873797, z: -0.2768416}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7947146274094451517}
+  m_Father: {fileID: 5150037180508740495}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0.020908326, y: -22.449364, z: -51.973934}
+--- !u!1 &1994588712797259440
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 635858948653918826}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0203_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &635858948653918826
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994588712797259440}
+  m_LocalRotation: {x: 0.79351175, y: 0.33947802, z: -0.12715715, w: -0.48879933}
+  m_LocalPosition: {x: -2.3620503, y: 3.494067e-16, z: -2.1976832e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7947146274094451517}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -43.582783, y: -132.54604, z: 113.74295}
+--- !u!1 &2427548482778703883
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1858172911119198525}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0402_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1858172911119198525
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2427548482778703883}
+  m_LocalRotation: {x: -0.0060441373, y: -0.13941635, z: 0.77633095, w: 0.61468434}
+  m_LocalPosition: {x: -2.3472474, y: 8.037894e-16, z: -3.0798242e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 102526351091531292}
+  m_Father: {fileID: 7542080511768911786}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 12.065865, y: -10.65312, z: 102.12785}
+--- !u!1 &2428204268370713729
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3096618670179386939}
+  - component: {fileID: 3722272954722079477}
+  - component: {fileID: 5774971075421294885}
+  m_Layer: 0
+  m_Name: SpiderGuard_CHAR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3096618670179386939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2428204268370713729}
+  m_LocalRotation: {x: -0, y: 0.9479586, z: -0, w: -0.31839374}
+  m_LocalPosition: {x: 10.36, y: -1.03, z: 75.87}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5749031133873394209}
+  - {fileID: 3690876799690631535}
+  - {fileID: 7704241686247558740}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 217.132, z: 0}
+--- !u!111 &3722272954722079477
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2428204268370713729}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: -3100369314251171874, guid: dcee3f44180d15841b255886303bcf82, type: 3}
+  m_Animations:
+  - {fileID: -3100369314251171874, guid: dcee3f44180d15841b255886303bcf82, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 1
+--- !u!95 &5774971075421294885
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2428204268370713729}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 04df6b5ba34b2c847b687c2acc23ed0a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &2555567584924472447
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3261277333926450245}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_MandibleEnd_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3261277333926450245
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555567584924472447}
+  m_LocalRotation: {x: -0.41164204, y: 0.7572535, z: -0.24217315, w: -0.44549984}
+  m_LocalPosition: {x: 1.1135446, y: 0.000003432248, z: 0.00000074577474}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7533407347788453345}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2651140338657142846
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4097173474680221829}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0303_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4097173474680221829
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651140338657142846}
+  m_LocalRotation: {x: -0.77927446, y: -0.29455912, z: 0.12966865, w: 0.53772885}
+  m_LocalPosition: {x: 2.3620467, y: -0.0000020920538, z: -0.000004476492}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3295085641939565107}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -49.613113, y: -126.79255, z: 112.51981}
+--- !u!1 &2730161653924598335
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 457720776361682878}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_DigitEnd_JNT 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &457720776361682878
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2730161653924598335}
+  m_LocalRotation: {x: -0.5567498, y: 0.3063062, z: 0.41054064, w: 0.65395916}
+  m_LocalPosition: {x: -1.7720106, y: 1.1368684e-15, z: -6.0396133e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 968754005427824167}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2815247618736416089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 994920319262784743}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Digit02_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &994920319262784743
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2815247618736416089}
+  m_LocalRotation: {x: 0.22997326, y: 0.15669225, z: 0.63995063, w: 0.71625626}
+  m_LocalPosition: {x: 3.50349, y: 1.7485099, z: -0.5513}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8417559651346046288}
+  m_Father: {fileID: 3690876799690631535}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 7.405394, y: 31.545158, z: 85.65378}
+--- !u!1 &3239807844797803206
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 733191831940088758}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0203_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &733191831940088758
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3239807844797803206}
+  m_LocalRotation: {x: 0.79351175, y: 0.33947802, z: -0.12715715, w: -0.48879933}
+  m_LocalPosition: {x: 2.362057, y: 0.0000035779847, z: -0.0000012965868}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7081117945971603605}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -43.582783, y: -132.54604, z: 113.74295}
+--- !u!1 &3408258874500669631
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2699804964857748257}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Digit04_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2699804964857748257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3408258874500669631}
+  m_LocalRotation: {x: 0.6705569, y: 0.667813, z: 0.2802412, w: 0.160761}
+  m_LocalPosition: {x: -3.360848, y: 1.7467, z: -1.771534}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6233296847687381831}
+  m_Father: {fileID: 3690876799690631535}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -9.131366, y: 143.26376, z: 93.27261}
+--- !u!1 &3428493500964589785
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 978554910692809707}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0402_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &978554910692809707
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3428493500964589785}
+  m_LocalRotation: {x: -0.00066270464, y: -0.13261469, z: 0.7775217, w: 0.61471367}
+  m_LocalPosition: {x: 2.3472457, y: -0.0000010708447, z: 0.0000011019507}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1567732910502297139}
+  m_Father: {fileID: 6043968330394048304}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 11.853315, y: -9.650946, z: 102.33553}
+--- !u!1 &3720367289370166270
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2676397285321059423}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_LegEnd_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2676397285321059423
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3720367289370166270}
+  m_LocalRotation: {x: -0.09530447, y: 0.8827653, z: -0.4126578, w: 0.2033618}
+  m_LocalPosition: {x: 1.4317507, y: 0.0038554545, z: -0.0025583452}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 181155079025639670}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3919766226078743343
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1936587747826805984}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_LegEnd_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1936587747826805984
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3919766226078743343}
+  m_LocalRotation: {x: -0.095304094, y: 0.88276595, z: -0.41265717, w: 0.20336054}
+  m_LocalPosition: {x: -1.432525, y: 0.0000016402596, z: 0.0000023923158}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2779424876575831483}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3968008067953834759
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6753454139793039231}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_DigitEnd_JNT 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6753454139793039231
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3968008067953834759}
+  m_LocalRotation: {x: 0.7421534, y: -0.379785, z: -0.31006137, w: -0.45698318}
+  m_LocalPosition: {x: -1.6596252, y: -5.684342e-16, z: -9.947598e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3028243764847082603}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4332002075050988919
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1617749352044716076}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0301_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1617749352044716076
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4332002075050988919}
+  m_LocalRotation: {x: 0.87772816, y: 0.37243783, z: -0.27751857, w: -0.1177573}
+  m_LocalPosition: {x: 1.0070297, y: -0.0029882656, z: -0.43274897}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3295085641939565107}
+  m_Father: {fileID: 5150037180508740495}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: -0.00058922917, y: -144.90836, z: 133.91928}
+--- !u!1 &4368590024600675134
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3028243764847082603}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Digit03_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3028243764847082603
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4368590024600675134}
+  m_LocalRotation: {x: 0.25026825, y: 0.182911, z: 0.6431345, w: 0.70020527}
+  m_LocalPosition: {x: 3.4287798, y: 1.64669, z: -1.12055}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6753454139793039231}
+  m_Father: {fileID: 3690876799690631535}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 6.6154766, y: 35.58693, z: 87.25987}
+--- !u!1 &4547153774833431204
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1350683294378748403}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0301_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1350683294378748403
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4547153774833431204}
+  m_LocalRotation: {x: 0.1177569, y: -0.27751878, z: -0.37243795, w: 0.8777281}
+  m_LocalPosition: {x: -1.0070326, y: -0.0029873797, z: -0.4327489}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 9014512326383701793}
+  m_Father: {fileID: 5150037180508740495}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0.00045806868, y: -35.09165, z: -46.08071}
+--- !u!1 &4695737112139640910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3690876799690631535}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:Master_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3690876799690631535
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4695737112139640910}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5150037180508740495}
+  - {fileID: 5776734780857192340}
+  - {fileID: 1760882451553796713}
+  - {fileID: 2699804964857748257}
+  - {fileID: 994920319262784743}
+  - {fileID: 3028243764847082603}
+  - {fileID: 968754005427824167}
+  m_Father: {fileID: 3096618670179386939}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4728946451258039520
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7947146274094451517}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0202_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7947146274094451517
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4728946451258039520}
+  m_LocalRotation: {x: -0.00029828586, y: -0.08969801, z: 0.78553545, w: 0.61228126}
+  m_LocalPosition: {x: -2.1679547, y: -1.280194e-16, z: 2.1762885e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 635858948653918826}
+  m_Father: {fileID: 838154152568619505}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 8.080056, y: -6.39692, z: 103.67884}
+--- !u!1 &4736326057205268654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7081117945971603605}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0202_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7081117945971603605
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4736326057205268654}
+  m_LocalRotation: {x: -0.00029828586, y: -0.08969801, z: 0.78553545, w: 0.61228126}
+  m_LocalPosition: {x: 2.1679573, y: -0.0000024346948, z: 0.0000001114631}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 733191831940088758}
+  m_Father: {fileID: 3313461256579905237}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 8.080056, y: -6.39692, z: 103.67884}
+--- !u!1 &5039436074304389916
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4328361478034579090}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_DigitEnd_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4328361478034579090
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5039436074304389916}
+  m_LocalRotation: {x: 0.38529363, y: 0.7371452, z: 0.50609183, w: -0.22811584}
+  m_LocalPosition: {x: -1.7683059, y: 5.684342e-16, z: 4.2632563e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5776734780857192340}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5067418602594455690
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 968754005427824167}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Digit04_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &968754005427824167
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5067418602594455690}
+  m_LocalRotation: {x: 0.27473536, y: 0.15523459, z: 0.67185813, w: 0.6700965}
+  m_LocalPosition: {x: 3.3608499, y: 1.7466999, z: -1.7715299}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 457720776361682878}
+  m_Father: {fileID: 3690876799690631535}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 9.184097, y: 35.782238, z: 93.120926}
+--- !u!1 &5427492807203015257
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3537481950708987735}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:Head_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3537481950708987735
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5427492807203015257}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0.0023496163, y: 0.88615173, z: 0.9570869}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2298903086398604374}
+  - {fileID: 5018075302667993065}
+  - {fileID: 6108929338235326177}
+  m_Father: {fileID: 5150037180508740495}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+--- !u!1 &5524027320123880050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5749031133873394209}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:Master_GRP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5749031133873394209
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5524027320123880050}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7625912183101613329}
+  m_Father: {fileID: 3096618670179386939}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5592082479716222591
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1760882451553796713}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Digit03_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1760882451553796713
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5592082479716222591}
+  m_LocalRotation: {x: 0.64473397, y: 0.7024019, z: 0.24403602, w: 0.17718972}
+  m_LocalPosition: {x: -3.4287796, y: 1.6466885, z: -1.120554}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 410936390660504537}
+  m_Father: {fileID: 3690876799690631535}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -6.5656877, y: 145.43684, z: 87.142265}
+--- !u!1 &6266415737085639177
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6048611175020566077}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0102_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6048611175020566077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6266415737085639177}
+  m_LocalRotation: {x: 0.06960775, y: 0.49853003, z: 0.723984, w: 0.471667}
+  m_LocalPosition: {x: 1.17054, y: 0.0000058995583, z: -0.000004311456}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 181155079025639670}
+  m_Father: {fileID: 2536071370898601493}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -41.1073, y: 49.17005, z: 94.52085}
+--- !u!1 &6415981911494021555
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2462154104535251196}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0303_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2462154104535251196
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6415981911494021555}
+  m_LocalRotation: {x: -0.77927446, y: -0.29455912, z: 0.12966865, w: 0.53772885}
+  m_LocalPosition: {x: -2.3620503, y: 5.684342e-16, z: -8.5265126e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 9014512326383701793}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -49.613113, y: -126.79255, z: 112.51981}
+--- !u!1 &6589446398166437553
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7542080511768911786}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0401_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7542080511768911786
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6589446398166437553}
+  m_LocalRotation: {x: 0.074993536, y: -0.16400391, z: -0.40903497, w: 0.8945217}
+  m_LocalPosition: {x: -0.8901278, y: -0.15946957, z: -1.4722635}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1858172911119198525}
+  m_Father: {fileID: 5150037180508740495}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0.031016588, y: -20.778864, z: -49.23816}
+--- !u!1 &6636779935338394154
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7704241686247558740}
+  - component: {fileID: 6229307896886536492}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:Spider_Guard_MOD_MASTER:SpiderGuard_GEO
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7704241686247558740
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6636779935338394154}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3096618670179386939}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &6229307896886536492
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6636779935338394154}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 0c216e815f913c7418ae3535ef39eaba, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 3288381703028569758, guid: c28c7e70b6e8a184f89d6e9937644b65, type: 3}
+  m_Bones:
+  - {fileID: 968754005427824167}
+  - {fileID: 457720776361682878}
+  - {fileID: 3028243764847082603}
+  - {fileID: 6753454139793039231}
+  - {fileID: 994920319262784743}
+  - {fileID: 8417559651346046288}
+  - {fileID: 2699804964857748257}
+  - {fileID: 6233296847687381831}
+  - {fileID: 1760882451553796713}
+  - {fileID: 410936390660504537}
+  - {fileID: 5776734780857192340}
+  - {fileID: 4328361478034579090}
+  - {fileID: 5150037180508740495}
+  - {fileID: 3537481950708987735}
+  - {fileID: 2298903086398604374}
+  - {fileID: 5018075302667993065}
+  - {fileID: 206242457912339200}
+  - {fileID: 127787884805722855}
+  - {fileID: 6108929338235326177}
+  - {fileID: 7533407347788453345}
+  - {fileID: 3261277333926450245}
+  - {fileID: 7523405404884304867}
+  - {fileID: 9047745729284948506}
+  - {fileID: 2779424876575831483}
+  - {fileID: 1936587747826805984}
+  - {fileID: 838154152568619505}
+  - {fileID: 7947146274094451517}
+  - {fileID: 635858948653918826}
+  - {fileID: 1350683294378748403}
+  - {fileID: 9014512326383701793}
+  - {fileID: 2462154104535251196}
+  - {fileID: 7542080511768911786}
+  - {fileID: 1858172911119198525}
+  - {fileID: 102526351091531292}
+  - {fileID: 2536071370898601493}
+  - {fileID: 6048611175020566077}
+  - {fileID: 181155079025639670}
+  - {fileID: 2676397285321059423}
+  - {fileID: 3313461256579905237}
+  - {fileID: 7081117945971603605}
+  - {fileID: 733191831940088758}
+  - {fileID: 1617749352044716076}
+  - {fileID: 3295085641939565107}
+  - {fileID: 4097173474680221829}
+  - {fileID: 6043968330394048304}
+  - {fileID: 978554910692809707}
+  - {fileID: 1567732910502297139}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5150037180508740495}
+  m_AABB:
+    m_Center: {x: 0.0023488998, y: 0.19587511, z: -0.70957446}
+    m_Extent: {x: 4.316187, y: 2.153314, z: 2.7912886}
+  m_DirtyAABB: 0
+--- !u!1 &6685717100472651247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6108929338235326177}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Face_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6108929338235326177
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6685717100472651247}
+  m_LocalRotation: {x: 0.7157242, y: -0.5613368, z: 0.32694066, w: -0.25641698}
+  m_LocalPosition: {x: -0.0000019304782, y: -0.79999995, z: -0.59999996}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7533407347788453345}
+  m_Father: {fileID: 3537481950708987735}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0.0000018824226, y: 130.89844, z: -103.78637}
+--- !u!1 &6840038341132746851
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9047745729284948506}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0102_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9047745729284948506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6840038341132746851}
+  m_LocalRotation: {x: 0.06960775, y: 0.49853003, z: 0.723984, w: 0.471667}
+  m_LocalPosition: {x: -1.1705436, y: 2.842171e-16, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2779424876575831483}
+  m_Father: {fileID: 7523405404884304867}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -41.1073, y: 49.17005, z: 94.52085}
+--- !u!1 &7318889771397774906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 102526351091531292}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0403_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &102526351091531292
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7318889771397774906}
+  m_LocalRotation: {x: -0.45668638, y: -0.20515627, z: 0.20449436, w: 0.8411483}
+  m_LocalPosition: {x: -2.200929, y: -1.8326414e-16, z: 1.221761e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1858172911119198525}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -43.186497, y: -46.84599, z: 46.787548}
+--- !u!1 &7377414168805238401
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 127787884805722855}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_MandibleEnd_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &127787884805722855
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7377414168805238401}
+  m_LocalRotation: {x: -0.41164204, y: 0.7572535, z: -0.24217315, w: -0.44549984}
+  m_LocalPosition: {x: -1.113547, y: -9.947598e-16, z: 1.4210854e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 206242457912339200}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7812466141885311152
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 206242457912339200}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Mandible_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &206242457912339200
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7812466141885311152}
+  m_LocalRotation: {x: 0.02895021, y: 0.17155792, z: 0.9039981, w: -0.39053467}
+  m_LocalPosition: {x: -1.1950966, y: 2.842171e-16, z: -5.684342e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 127787884805722855}
+  m_Father: {fileID: 5018075302667993065}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -19.438091, y: -4.9675975, z: -132.41916}
+--- !u!1 &7912899744588345102
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9014512326383701793}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0302_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9014512326383701793
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7912899744588345102}
+  m_LocalRotation: {x: -0.00008810624, y: -0.0019343612, z: 0.775632, w: 0.6311824}
+  m_LocalPosition: {x: -2.3472474, y: 8.5265126e-16, z: 9.947598e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2462154104535251196}
+  m_Father: {fileID: 1350683294378748403}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.16555513, y: -0.14774105, z: 101.724785}
+--- !u!1 &7936746691236382034
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3295085641939565107}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0302_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3295085641939565107
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7936746691236382034}
+  m_LocalRotation: {x: -0.00008810624, y: -0.0019343612, z: 0.775632, w: 0.6311824}
+  m_LocalPosition: {x: 2.3472462, y: 0.0000014013169, z: -0.00000053026696}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4097173474680221829}
+  m_Father: {fileID: 1617749352044716076}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.16555513, y: -0.14774105, z: 101.724785}
+--- !u!1 &8013772342575758792
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7625912183101613329}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:Master_CTL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7625912183101613329
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8013772342575758792}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5749031133873394209}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8209863289437904119
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5150037180508740495}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:Base_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5150037180508740495
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8209863289437904119}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0023496163, y: 1.9138483, z: 1.018705}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3537481950708987735}
+  - {fileID: 7523405404884304867}
+  - {fileID: 838154152568619505}
+  - {fileID: 1350683294378748403}
+  - {fileID: 7542080511768911786}
+  - {fileID: 2536071370898601493}
+  - {fileID: 3313461256579905237}
+  - {fileID: 1617749352044716076}
+  - {fileID: 6043968330394048304}
+  m_Father: {fileID: 3690876799690631535}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8381805240328793330
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2779424876575831483}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Leg0103_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2779424876575831483
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8381805240328793330}
+  m_LocalRotation: {x: 0.9436701, y: 0.31173998, z: -0.010993259, w: -0.11038172}
+  m_LocalPosition: {x: -2.2740963, y: 1.7053025e-15, z: 8.5265126e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1936587747826805984}
+  m_Father: {fileID: 9047745729284948506}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -11.626976, y: -174.69653, z: 142.78157}
+--- !u!1 &8811552532774990394
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5018075302667993065}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:L_Face_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5018075302667993065
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8811552532774990394}
+  m_LocalRotation: {x: 0.5613368, y: 0.7157242, z: -0.25641698, w: -0.32694066}
+  m_LocalPosition: {x: -1.6484591e-14, y: -0.79999995, z: 0.59999996}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 206242457912339200}
+  m_Father: {fileID: 3537481950708987735}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.0000018824226, y: -130.89844, z: 76.213615}
+--- !u!1 &8882352994880892176
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1567732910502297139}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0403_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1567732910502297139
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8882352994880892176}
+  m_LocalRotation: {x: -0.46403265, y: -0.20335817, z: 0.20628254, w: 0.8371181}
+  m_LocalPosition: {x: 2.2009299, y: 0.00000016906098, z: -0.0000051895295}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 978554910692809707}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -43.868187, y: -47.545135, z: 47.802685}
+--- !u!1 &9212594272397919337
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3313461256579905237}
+  m_Layer: 0
+  m_Name: Spider_Guard_RIG_MASTER:R_Leg0201_JNT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3313461256579905237
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9212594272397919337}
+  m_LocalRotation: {x: 0.8820685, y: 0.42902336, z: -0.17505603, w: -0.08514453}
+  m_LocalPosition: {x: 1.0479796, y: -0.0029882656, z: -0.27684197}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7081117945971603605}
+  m_Father: {fileID: 5150037180508740495}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: -0.024509639, y: -157.55081, z: 128.02637}
